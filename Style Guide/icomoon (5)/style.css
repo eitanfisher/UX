@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?aznixm');
+    src:    url('fonts/icomoon.eot?aznixm#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.woff2?aznixm') format('woff2'),
+        url('fonts/icomoon.ttf?aznixm') format('truetype'),
+        url('fonts/icomoon.woff?aznixm') format('woff'),
+        url('fonts/icomoon.svg?aznixm#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Add:before {
+    content: "\e914";
+}
+.icon-admin:before {
+    content: "\e915";
+}
+.icon-calendar:before {
+    content: "\e916";
+}
+.icon-fail:before {
+    content: "\e917";
+}
+.icon-loading:before {
+    content: "\e918";
+}
+.icon-success:before {
+    content: "\e919";
+}
+.icon-v:before {
+    content: "\e913";
+}
+.icon-place-holder-icon:before {
+    content: "\e912";
+}
+.icon-my-tasks:before {
+    content: "\e909";
+}
+.icon-ic-07:before {
+    content: "\e90a";
+}
+.icon-edit:before {
+    content: "\e90b";
+}
+.icon-x:before {
+    content: "\e90c";
+}
+.icon-arrow-down:before {
+    content: "\e90d";
+}
+.icon-arrow-up:before {
+    content: "\e90e";
+}
+.icon-search:before {
+    content: "\e90f";
+}
+.icon-community:before {
+    content: "\e910";
+}
+.icon-folder:before {
+    content: "\e911";
+}
+.icon-security-30:before {
+    content: "\e900";
+}
+.icon-settings-30:before {
+    content: "\e901";
+}
+.icon-utilities-30:before {
+    content: "\e902";
+}
+.icon-help-30:before {
+    content: "\e903";
+}
+.icon-log-out-30:before {
+    content: "\e904";
+}
+.icon-community-30:before {
+    content: "\e905";
+}
+.icon-glossary-30:before {
+    content: "\e906";
+}
+.icon-my-profile-30:before {
+    content: "\e907";
+}
+.icon-my-tasks-30:before {
+    content: "\e908";
+}
+
